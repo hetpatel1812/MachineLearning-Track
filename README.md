@@ -16,7 +16,9 @@ Each subfolder (Day 1, Day 2, ...) contains:
 |-----|-------------------------------------|
 | 1   | NumPy & Pandas Revision             |
 | 2   | Introduction to ML & Supervised Learning |
-| 3   | *(Scheduled: Light Task – Sunday)*  |
+| 3   | Supervised Learning Core Concepts |
+|     |                                     |
+|     |                                     |
 | ... | Coming Soon                         |
 
 ---

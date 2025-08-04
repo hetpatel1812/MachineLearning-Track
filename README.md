@@ -32,7 +32,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 ## 🚀 Tools Used
 - Python
 - Jupyter Notebook
-- NumPy, Pandas, Scikit-learn (coming soon)
+- NumPy, Pandas, Scikit-learn
 - Matplotlib, Seaborn (for visualization later)
 
 ---

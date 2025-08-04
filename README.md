@@ -17,6 +17,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 1   | NumPy & Pandas Revision             |
 | 2   | Introduction to ML & Supervised Learning |
 | 3   | Supervised Learning Core Concepts |
+| 4   | Linear Regression                   |
 | ... | Coming Soon                         |
 
 ---
@@ -43,3 +44,4 @@ This repo is a personal learning log, but feel free to explore, suggest improvem
 ---
 
 ### ⭐ Feel free to give this repo a star if it helps you too!
+

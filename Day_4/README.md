@@ -15,5 +15,3 @@
 
 ---
 
-### Next Up:
-➡️ **Day 5** – *Logistic Regression (Classification)*

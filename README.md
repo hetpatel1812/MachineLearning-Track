@@ -18,7 +18,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 2   | Introduction to ML & Supervised Learning |
 | 3   | Supervised Learning Core Concepts |
 | 4   | Linear Regression                   |
-| 5   | Data Visualization with Python_1    |
+| 5   | Data Visualization with Python   |
 | 6   | Understanding Pyplot,Pyplot Functions,Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
 | ... | Coming Soon                         |
 

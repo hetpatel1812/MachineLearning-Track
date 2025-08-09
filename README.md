@@ -19,8 +19,8 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 3   | Supervised Learning Core Concepts |
 | 4   | Linear Regression                   |
 | 5   | Data Visualization with Python   |
-| 6   | Understanding Pyplot,Pyplot Functions,Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
-| 7   | Subplots and Layout Adjustments, Saving figures to .png, .jpg, .pdf |
+| 6   | Understanding Pyplot,Pyplot Functions & Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
+| 7   | Subplots and Layout Adjustments & Saving figures to .png, .jpg, .pdf |
 | ... | Coming Soon                         |
 
 ---

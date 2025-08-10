@@ -22,8 +22,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 6   | Understanding Pyplot,Pyplot Functions & Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
 | 7   | Subplots and Layout Adjustments |
 | 8   | Saving figures to .png, .jpg, .pdf, etc 
-& Netflix-Data-Visualization
- |
+& Netflix-Data-Visualization|
 | ... | Coming Soon                         |
 
 ---

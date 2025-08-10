@@ -21,6 +21,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 5   | Data Visualization with Python   |
 | 6   | Understanding Pyplot,Pyplot Functions & Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
 | 7   | Subplots and Layout Adjustments |
+| 8   | Saving figures to .png, .jpg, .pdf, etc |
 | ... | Coming Soon                         |
 
 ---

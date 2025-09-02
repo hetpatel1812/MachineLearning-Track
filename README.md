@@ -38,7 +38,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 - Python
 - Jupyter Notebook
 - NumPy, Pandas, Scikit-learn
-- Matplotlib, Seaborn (for visualization later)
+- Matplotlib
 
 ---
 

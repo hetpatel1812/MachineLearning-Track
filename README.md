@@ -22,6 +22,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 6   | Understanding Pyplot,Pyplot Functions & Plotting Bar Charts, Pie Charts, Histograms, Vector Graphs|
 | 7   | Subplots and Layout Adjustments |
 | 8   | Saving figures to .png, .jpg, .pdf, etc & Project-[Netflix-Data-Visualization](https://github.com/hetpatel1812/Netflix-Data-Visualization)|
+| 9   | Make a simple [Placement Prediction Model](https://github.com/hetpatel1812/MachineLearning-Track/tree/main/Day_9)|
 | ... | Coming Soon                         |
 
 ---

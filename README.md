@@ -23,6 +23,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 7   | Subplots and Layout Adjustments |
 | 8   | Saving figures to .png, .jpg, .pdf, etc & Project-[Netflix-Data-Visualization](https://github.com/hetpatel1812/Netflix-Data-Visualization)|
 | 9   | Make a simple [Placement Prediction Model](https://github.com/hetpatel1812/MachineLearning-Track/tree/main/Day_9)|
+| 10  | Supervised machine learning  |
 | ... | Coming Soon                         |
 
 ---

@@ -25,6 +25,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 9   | Make a simple [Placement Prediction Model](https://github.com/hetpatel1812/MachineLearning-Track/tree/main/Day_9)|
 | 10  | Supervised machine learning  |
 | 11 | Model Evaluation                         |
+| 12 |  Unsupervised machine learning -KMeans                    |
 | ... | Coming Soon                         |
 
 ---

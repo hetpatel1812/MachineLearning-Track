@@ -27,6 +27,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 11 | Model Evaluation                         |
 | 12 |  Unsupervised machine learning -KMeans      |
 | 13 |  PCA   |
+| 12 |  Project - Student Pass/Fail        |
 | ... | Coming Soon                         |
 
 ---

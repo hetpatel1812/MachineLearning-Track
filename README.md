@@ -28,6 +28,8 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 12 |  Unsupervised machine learning -KMeans      |
 | 13 |  PCA   |
 | 14 |  Project - Student Pass/Fail        |
+| 15 |  DeepLearning Basics        |
+| 16 |  Iris model using ANN        |
 | ... | Coming Soon                         |
 
 ---

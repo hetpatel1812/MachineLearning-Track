@@ -30,6 +30,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 14 |  Project - Student Pass/Fail        |
 | 15 |  DeepLearning Basics        |
 | 16 |  Iris model using ANN        |
+| 17 |  Practice Diabetes Data     |
 | ... | Coming Soon                         |
 
 ---

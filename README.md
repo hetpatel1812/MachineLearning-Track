@@ -31,6 +31,7 @@ Each subfolder (Day 1, Day 2, ...) contains:
 | 15 |  DeepLearning Basics        |
 | 16 |  Iris model using ANN        |
 | 17 |  Practice Diabetes Data     |
+| 18 |  CNN    |
 | ... | Coming Soon                         |
 
 ---
